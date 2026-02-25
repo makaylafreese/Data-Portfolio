@@ -11,6 +11,8 @@ This portfolio contains projects demonstrating data cleaning, analysis, visualiz
 ### Cryptocurrency vs Stock Market Time-Series Analysis
 Analyzed relationships between cryptocurrency and equity markets using statistical modeling and time-series analysis.
 
+[View Project Folder](./crypto-stock-analysis)
+
 Skills used:
 - Python
 - R
