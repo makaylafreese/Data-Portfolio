@@ -24,6 +24,8 @@ Skills used:
 ### Housing Market Machine Learning Classification
 Built machine learning models to classify housing market categories and evaluated performance.
 
+[View Project Folder](./housing-classification)
+
 Skills used:
 - Python
 - scikit-learn
@@ -34,6 +36,8 @@ Skills used:
 
 ### Data Science Capstone Project
 Completed full data science workflow including cleaning, modeling, and interpretation.
+
+[View Project Folder](./data-science-capstone)
 
 Skills used:
 - Python
