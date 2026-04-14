@@ -46,6 +46,22 @@ Skills used:
 
 ---
 
+### Restaurant Tipping Analysis
+
+Analyzed restaurant tipping behavior using Python, SQL, exploratory data analysis, and regression modeling. Validated results using SQLite in DBeaver to strengthen SQL portfolio skills.
+
+[View Project Folder](./restaurant-tipping-analysis)
+
+Skills used:
+- Python
+- pandas
+- matplotlib
+- SQL
+- SQLite
+- DBeaver
+- Regression analysis
+- Data visualization
+
 ## Technical Skills
 
 Programming:
