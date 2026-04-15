@@ -21,4 +21,4 @@ This project analyzes tipping behavior using restaurant transaction data. The go
 - Exploratory data analysis
 
 ## Status
-Notebook in progress.
+Completed analysis with Python and SQL validation in DBeaver. Additional enhancements may be added over time.
