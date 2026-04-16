@@ -19,6 +19,28 @@ Additional SQL validation and exploratory analysis were completed in DBeaver usi
 - Friday lunch had the highest average tip percentage
 - Higher dinner tips were strongly associated with larger average bills
 
+### Example SQL Output: Tip Percentage by Party Size
+
+| Party Size | Avg Tip % |
+|---|---:|
+| 1 | 21.73 |
+| 2 | 16.57 |
+| 3 | 15.22 |
+| 4 | 14.59 |
+| 5 | 14.15 |
+| 6 | 15.62 |
+
+### Example SQL Output: Tip Percentage by Day and Time
+
+| Day | Time | Avg Tip % |
+|---|---|---:|
+| Fri | Lunch | 18.88 |
+| Sun | Dinner | 16.69 |
+| Thur | Lunch | 16.13 |
+| Thur | Dinner | 15.97 |
+| Fri | Dinner | 15.89 |
+| Sat | Dinner | 15.32 |
+
 ### SQL Skills Demonstrated
 - SELECT
 - GROUP BY
