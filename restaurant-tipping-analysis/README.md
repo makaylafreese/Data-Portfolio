@@ -1,4 +1,4 @@
-# Restaurant Tipping Analysis
+# Restaurant Tipping Behavior Analysis (Python, SQL, Tableau)
 
 ## Overview
 This project analyzes tipping behavior using restaurant transaction data. The goal is to explore relationships between bill amount, tip amount, and dining conditions.
@@ -12,12 +12,18 @@ This project analyzes tipping behavior using restaurant transaction data. The go
 
 Additional SQL validation and exploratory analysis were completed in DBeaver using SQLite. All SQL scripts are organized in the `/sql` folder.
 
-### Key Findings
-- Average tip amount increased with party size
-- Tip percentage decreased as party size increased
-- Sunday dinner had the highest average dollar tip
-- Friday lunch had the highest average tip percentage
-- Higher dinner tips were strongly associated with larger average bills
+## Key Findings
+- Average tip amount increases with party size, driven by larger total bills
+- Tip percentage decreases as party size increases, indicating lower proportional tipping in larger groups
+- Sunday dinner produces the highest average dollar tips
+- Friday lunch yields the highest average tip percentage
+- Higher dinner tips are primarily explained by larger bill sizes rather than increased generosity
+
+## Explanation of Findings
+
+The results suggest that tipping behavior is influenced by both group size and dining context. Larger parties generate higher total tips due to increased bill amounts, but tend to tip a lower percentage overall. This may reflect shared responsibility or social dynamics within larger groups.
+
+Time-based trends show that lunch customers tend to tip a higher percentage, while dinner generates higher total tips due to larger bills. These patterns highlight how both spending behavior and context impact tipping outcomes.
 
 ## Tableau Dashboard
 
