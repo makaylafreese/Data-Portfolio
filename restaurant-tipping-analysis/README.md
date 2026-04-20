@@ -19,6 +19,10 @@ Additional SQL validation and exploratory analysis were completed in DBeaver usi
 - Friday lunch had the highest average tip percentage
 - Higher dinner tips were strongly associated with larger average bills
 
+## Tableau Dashboard
+
+![Restaurant Tipping Dashboard](restaurant_dashboard.png)
+
 ### Example SQL Output: Tip Percentage by Party Size
 
 | Party Size | Avg Tip % |
