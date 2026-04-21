@@ -54,7 +54,7 @@ The dataset includes housing prices, rent indices, construction activity, and ot
 
 ## Example Visualization
 
-![GDP vs Housing](gdp_chart.png)
+![GDP vs Housing](gdp_chart_ex.png)
 
 ---
 
