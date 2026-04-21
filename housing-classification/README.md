@@ -1,7 +1,7 @@
 # Housing Market Machine Learning Classification
 
 ## Overview
-This project uses machine learning models to classify housing market categories based on housing data.
+This project analyzes global housing and economic data to classify GDP growth categories using machine learning. It focuses on how housing indicators such as price index, rent index, and construction activity relate to economic performance.
 
 ## Tools Used
 - Python
@@ -14,4 +14,4 @@ This project uses machine learning models to classify housing market categories 
 - Model evaluation
 
 ## Status
-Project files will be uploaded soon.
+Project completed and available in this repository.
