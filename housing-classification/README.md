@@ -35,12 +35,13 @@ The dataset includes housing prices, rent indices, construction activity, and ot
 
 ### 3. Feature Engineering
 - Created GDP to HPI ratio to capture economic pressure in housing markets
-- Focused on meaningful variables that improve model performance
+- Improved the model’s ability to detect meaningful economic patterns.
 
-### 4. Modeling
-- Applied Random Forest Classifier to categorize GDP growth
-- Split data into training and testing sets
-- Evaluated model performance using classification metrics
+## 4. Modeling
+- Used Random Forest Classifier to capture non-linear relationships
+- Split data into training and testing sets (80/20)
+- Applied cross-validation to improve reliability
+- Evaluated performance using classification metrics
 
 ---
 
