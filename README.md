@@ -34,18 +34,6 @@ Skills used:
 
 ---
 
-### Data Science Capstone Project
-Completed full data science workflow including cleaning, modeling, and interpretation.
-
-[View Project Folder](./data-science-capstone)
-
-Skills used:
-- Python
-- Data analysis
-- Statistical modeling
-
----
-
 ### Restaurant Tipping Analysis
 
 Analyzed restaurant tipping behavior using Python, SQL, exploratory data analysis, and regression modeling. Validated results using SQLite in DBeaver to strengthen SQL portfolio skills.
