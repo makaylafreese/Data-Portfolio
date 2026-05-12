@@ -49,6 +49,8 @@ Skills used:
 - Regression analysis
 - Data visualization
 
+---
+
 ## Technical Skills
 
 Programming:
