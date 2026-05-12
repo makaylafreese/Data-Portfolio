@@ -53,22 +53,4 @@ Skills used:
 
 ## Technical Skills
 
-Programming:
-- Python
-- SQL
-- R
-- C++
-
-Data Analysis:
-- pandas
-- NumPy
-- scikit-learn
-
-Visualization:
-- matplotlib
-- seaborn
-
-Tools:
-- Jupyter Notebook
-- Git/GitHub
-- Excel
+Python, SQL, scikit-learn, statistical modeling, machine learning, data visualization, Tableau, DBeaver, Jupyter Notebook, Git/GitHub
