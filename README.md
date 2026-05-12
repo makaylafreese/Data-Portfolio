@@ -15,7 +15,6 @@ Analyzed relationships between cryptocurrency and equity markets using statistic
 
 Skills used:
 - Python
-- R
 - Statistical modeling
 - Time series analysis
 
