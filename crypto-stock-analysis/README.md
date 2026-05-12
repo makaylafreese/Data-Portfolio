@@ -73,15 +73,15 @@ The dataset consists of daily market prices and returns used for volatility and 
 
 ### Correlation Matrix of Daily Percent Returns
 
-![Correlation Heatmap](Daily Percent Returns Corr Matrix.png)
+![Correlation Heatmap](Daily_Returns_Matrix.png)
 
 ### Rolling Volatility Comparison
 
-![Rolling Volatility](Rolling Volatility.png)
+![Rolling Volatility](Rolling_Volatility.png)
 
 ### Granger Causality Heatmap
 
-![Granger Heatmap](Granger Heatmap.png)
+![Granger Heatmap](Granger_Heatmap.png)
 
 ---
 
